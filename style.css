@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(29, 29, 147, 0.63);
+}
+h1{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgba(137, 43, 226, 0.078);
+    border-radius: 10px;
+}
+.done { 
+    text-decoration: line-through; 
+}
